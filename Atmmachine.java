@@ -143,7 +143,7 @@ class ATM {
     }
 }
 
-class Main {
+class Atmmachine {
     public static void main(String[] args) {
         User user1 = new User("123456", 1234, "Animesh");
         Account account1 = new Account(user1);
